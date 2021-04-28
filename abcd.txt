@@ -1,1 +1,2 @@
-This is a test file using ssh 
+This is a test file using ssh
+A new file to make conflicts
