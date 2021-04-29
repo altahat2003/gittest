@@ -1,1 +1,1 @@
-This is used to test merg request.
+This is used to test conflicts merg request.
