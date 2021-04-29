@@ -1,2 +1,7 @@
 This is a test file using ssh
+<<<<<<< HEAD
 A new file to make conflicts
+=======
+Hi again
+This is to test branch. 
+>>>>>>> 05f35d38930a76c8b0664ea520aa985cb9be2226
